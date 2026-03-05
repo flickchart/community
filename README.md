@@ -1,4 +1,4 @@
-# Flickchart
+![Flickchart](./flickchart_logo.svg)
 
 Welcome! This is the public hub for Flickchart feature requests, feedback, and roadmap visibility.
 

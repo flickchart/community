@@ -10,7 +10,7 @@ Welcome! This is the public hub for Flickchart feature requests, feedback, and r
 
 ## Submit Feedback
 
-The easiest way to share feedback is through the **feedback button** on [flickchart.com](https://flickchart.com).
+The easiest way to share feedback is through the **feedback button** on [flickchart.com](https://www.flickchart.com).
 
 Your submission is automatically turned into a tracked issue.
 

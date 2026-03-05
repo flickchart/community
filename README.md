@@ -2,11 +2,11 @@
 
 Welcome! This is the public hub for Flickchart feature requests, feedback, and roadmap visibility.
 
-## Project Board
+## Follow Our Progress
 
-- **[Board](https://github.com/orgs/flickchart/projects/1)**: current work in progress
-- **[Roadmap](https://github.com/orgs/flickchart/projects/1/views/3)**: what's planned and when
-- **[List](https://github.com/orgs/flickchart/projects/1/views/4)**: all tracked items
+- **[Board](https://github.com/orgs/flickchart/projects/1)** - Our work currently in progress
+- **[Roadmap](https://github.com/orgs/flickchart/projects/1/views/3)** - Upcoming plans and when they’re expected
+- **[List](https://github.com/orgs/flickchart/projects/1/views/4)** - A complete view of all tracked items
 
 ## Submit Feedback
 
